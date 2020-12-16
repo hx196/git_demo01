@@ -3,6 +3,7 @@ package com.git;
 public class Student {
     private Integer id;
     private String name;
+    private String sex;
 
     public Student(Integer id, String name) {
         this.id = id;

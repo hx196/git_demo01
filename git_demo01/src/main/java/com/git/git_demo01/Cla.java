@@ -5,5 +5,6 @@ public class Cla {
         System.out.println("添加文件");
         System.out.println("克隆项目");
         System.out.println("本地上传");
+        System.out.println("测试ssh");
     }
 }

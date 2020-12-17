@@ -4,5 +4,6 @@ public class Cla {
     public static void main(String[] args) {
         System.out.println("添加文件");
         System.out.println("克隆项目");
+        System.out.println("本地上传");
     }
 }
